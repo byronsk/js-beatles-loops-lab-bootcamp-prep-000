@@ -23,7 +23,7 @@ function johnLennonFacts(fact) {
 }
  
 function iLoveTheBeatles(n) {
-   arr = []
+   const arr = []
 
   do {
     arr.push('I love the Beatles!')
